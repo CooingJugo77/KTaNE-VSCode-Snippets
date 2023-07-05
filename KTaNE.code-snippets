@@ -616,5 +616,27 @@
 			"CDH = 10"
 		]
 	},
-	"The Button"
+	"The Button": {
+		"prefix": "theButton",
+		"body": [
+			"------------------------------The Button------------------------------",
+			"Souvenir (Strip Color): ",
+			"",
+			"Color: ",
+			"Label: ",
+			"---Manual---",
+			"If Blue AND Text Abort, Hold",
+			"If Text DeETONATE AND > 1 Battery, Tap",
+			"If lit CAR AND White, Hold",
+			"If lite FRK AND > 2 Batteries, Tap",
+			"If Yellow, Hold",
+			"If Red AND Text HOLD, Tap",
+			"Else Hold",
+			"",
+			"Stips:",
+			"Blue: 4",
+			"Yellow: 5",
+			"Else: 1"
+		]
+	}
 }
